@@ -1,7 +1,8 @@
 # 🧪 Pandas Program: Join Two DataFrames Along Rows
 
-## NAME : SANTHOSH V
-## REG NO: 212224230252
+## NAME : Ashish S
+
+## REG NO : 212224240017
 
 ## 🎯 AIM
 
